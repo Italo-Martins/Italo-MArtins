@@ -2,6 +2,7 @@
 
 * Estudante de Engenharia Elétrica ⚡
 * Pesquisador na área de Machine Learning e Sistemas Elétricos de Potência 🤖⚡
+* Desenvolvedor Web 
 * Data science  📈
 
 <div align="center">
